@@ -1,104 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50eea7ee-7245-4a5a-8c82-fba315da9e80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../002-环境准备/code002/code002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../003-详解HelloWorld程序/code003/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../004-集成开发环境安装和使用/Code004/.idea/Code004.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../005-从加减乘除到变量/code005/.idea/code005.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../006-再探加减乘除的程序/code006/code006.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../007-Java中的基本数据类型/code007/code007.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../009-Java中的位运算符/code009/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../009-Java中的位运算符/code009/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../009-Java中的位运算符/code009/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../009-Java中的位运算符/code009/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../009-Java中的位运算符/code009/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../014-程序循环之for语句/code014/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../015-代码块和变量的作用域/code015/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../017-程序执行流程之switch语句/code017/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../018-循环和判断的总结/code018/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../018-循环和判断的总结/code018/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../018-循环和判断的总结/code018/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../018-循环和判断的总结/code018/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../018-循环和判断的总结/code018/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../019-用数组保存成绩/code019/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../第二章 Java面向对象编程/10. Intellij 调试程序初探/code/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code016.iml" beforeDir="false" />
+    <list default="true" id="dd8b8be5-8a03-44ab-9769-e94630282764" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/code011.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/code012.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/code013.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/code014.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15. 代码块和变量的作用域/code/code015.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code016.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
+  <component name="ProjectId" id="1mF3itYQOFn1CDGfrF4PVt1p2YH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="RunManager">
+    <configuration name="FindNDivNotEndless" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindNDivNotEndless" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindNDivNotEndless" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50eea7ee-7245-4a5a-8c82-fba315da9e80" name="Default Changelist" comment="" />
-      <created>1583564696694</created>
+      <changelist id="dd8b8be5-8a03-44ab-9769-e94630282764" name="Default Changelist" comment="" />
+      <created>1609075644210</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583564696694</updated>
+      <updated>1609075644210</updated>
+      <workItem from="1609075645615" duration="59000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="390" y="171" width="1053" height="731" key="NewModule_or_Project.wizard" timestamp="1583564768017">
-      <screen x="0" y="23" width="1625" height="1027" />
-    </state>
-    <state x="390" y="171" width="1053" height="731" key="NewModule_or_Project.wizard/0.23.1625.1027@0.23.1625.1027" timestamp="1583564768017" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

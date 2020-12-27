@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="53858a7c-b9d5-48d1-8868-97b1107e5c35" name="Default Changelist" comment="">
+    <list default="true" id="28f6036f-bf76-490c-a53b-b9418d740feb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
@@ -20,24 +23,12 @@
       <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/code012.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. 程序执行流程之if-else语句/code/code013.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14. 程序循环之for语句/code/code014.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code015.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code013.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1mF3Ti82s3RPN0L619StjBpBjKR" />
+  <component name="ProjectId" id="1mF2yDKOeebipweBJZ5kmrtchPV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,13 +47,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
-    <configuration name="CodeBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeBlock" />
+  <component name="RunManager" selected="Application.IfElseNest">
+    <configuration name="Baozi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baozi" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDiv" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseBaozi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseBaozi" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseNest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseNest" />
       <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,19 +94,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CodeBlock" />
+        <item itemvalue="Application.IfElseNest" />
+        <item itemvalue="Application.IfElseBaozi" />
+        <item itemvalue="Application.FindDiv" />
+        <item itemvalue="Application.Baozi" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53858a7c-b9d5-48d1-8868-97b1107e5c35" name="Default Changelist" comment="" />
-      <created>1609075523084</created>
+      <changelist id="28f6036f-bf76-490c-a53b-b9418d740feb" name="Default Changelist" comment="" />
+      <created>1609075273685</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609075523084</updated>
-      <workItem from="1609075524661" duration="101000" />
+      <updated>1609075273685</updated>
+      <workItem from="1609075275003" duration="158000" />
     </task>
     <servers />
   </component>

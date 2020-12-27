@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9db52e3-9735-4f56-b772-02d6649c5ce0" name="Default Changelist" comment="">
+    <list default="true" id="cc7ff2d6-c5f0-420e-942e-133eb92e7137" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../12. 操作符和数据类型总结/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -14,8 +17,8 @@
       <change afterPath="$PROJECT_DIR$/../../17. 程序执行流程之switch语句/code/code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../18. 循环和判断的总结/code/code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../20. 认识变量和数组/code/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../21. 多维数组/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../11. 字符集编码和字符串/code/.idea/codeStyles/Project.xml" beforeDir="false" />
@@ -71,19 +74,18 @@
       <change beforePath="$PROJECT_DIR$/../../20. 认识变量和数组/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20. 认识变量和数组/code/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../20. 认识变量和数组/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20. 认识变量和数组/code/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../20. 认识变量和数组/code/code020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../21. 多维数组/code/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../21. 多维数组/code/code021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code021.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../22. 用数组灵活处理成绩/code/code022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1mF52xV8Yjt2wCrZgLgdtzydVfK" />
+  <component name="ProjectId" id="1mF4WsF8Iaw7owEngEPA64PJEvB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -102,13 +104,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration name="WuZiQi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WuZiQi" />
+    <configuration name="OneArrayForAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneArrayForAll" />
       <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,19 +130,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WuZiQi" />
+        <item itemvalue="Application.OneArrayForAll" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9db52e3-9735-4f56-b772-02d6649c5ce0" name="Default Changelist" comment="" />
-      <created>1609076297357</created>
+      <changelist id="cc7ff2d6-c5f0-420e-942e-133eb92e7137" name="Default Changelist" comment="" />
+      <created>1609076042103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609076297357</updated>
-      <workItem from="1609076300639" duration="112000" />
+      <updated>1609076042103</updated>
+      <workItem from="1609076044399" duration="153000" />
     </task>
     <servers />
   </component>
