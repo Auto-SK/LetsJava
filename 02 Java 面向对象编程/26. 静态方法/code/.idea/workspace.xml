@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99cb19c1-e0a1-4d0c-96ef-f199ea3b20eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../19. 给类和方法加 Java 注释/code/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../20. 一个成熟的类的对象会自己做事情/code/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../21. 方法的签名和重载/code/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../22. 重载的参数匹配规则/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../23. 构造方法：构造实例的方法/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../24. 构造方法的重载和互相调用/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25. 静态变量/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="445ca7ad-0d14-405b-a941-dac9d3247ab1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1mT3p1qiTLPMnQFhtJ2H7dVslFi" />
+  <component name="ProjectId" id="1mVt4rPo2LgFTSIFrRjH69zqiOF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,14 +22,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration name="RunLittleSupperMarketAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekbang.RunLittleSupperMarketAppMain" />
+    <configuration name="MerchandiseV2DescAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.MerchandiseV2DescAppMain" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
@@ -70,32 +39,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunLittleSupperMarketAppMain" />
+        <item itemvalue="Application.MerchandiseV2DescAppMain" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99cb19c1-e0a1-4d0c-96ef-f199ea3b20eb" name="Default Changelist" comment="" />
-      <created>1609503936009</created>
+      <changelist id="445ca7ad-0d14-405b-a941-dac9d3247ab1" name="Default Changelist" comment="" />
+      <created>1609590400584</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609503936009</updated>
-      <workItem from="1609503937301" duration="32000" />
+      <updated>1609590400584</updated>
+      <workItem from="1609590401847" duration="55000" />
+      <workItem from="1609590469820" duration="30000" />
     </task>
     <servers />
   </component>
@@ -112,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
