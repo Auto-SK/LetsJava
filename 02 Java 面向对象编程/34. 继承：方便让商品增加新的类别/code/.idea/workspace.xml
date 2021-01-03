@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79bfcb18-d49a-489e-bf55-4651d960f393" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../26. 静态方法/code/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../26. 静态方法/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../26. 静态方法/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../27. 静态方法的重载/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../28. static 代码块和 static 变量初始化/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../29. 方法和属性的可见性修饰符/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../30. 重新认识老朋友：Math 和 Scanner/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../31. 最熟悉的陌生人：String/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../32. 重新认识老朋友：main方法和System类/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../33. String 类的好兄弟/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../35. 子类对象里藏着一个父类对象/code/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +38,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609591422482</updated>
       <workItem from="1609591423647" duration="177000" />
+      <workItem from="1609676722524" duration="28000" />
     </task>
     <servers />
   </component>
@@ -126,5 +83,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
